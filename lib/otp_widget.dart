@@ -10,7 +10,7 @@ class Otp extends StatefulWidget {
 }
 
 class _OtpState extends State<Otp> {
-  double counter = 10;
+  double counter = 9;
   Timer? timer;
   bool colorbutton=false;
 
